@@ -1,4 +1,4 @@
-# Comprendre SOAP - Partie 1 : Les Bases de SOAP
+# Comprendre SOAP
 
 SOAP (Simple Object Access Protocol) est un protocole de communication qui permet d'échanger des informations structurées entre des applications dans un environnement réseau, souvent utilisé dans le contexte de services web. SOAP est particulièrement populaire dans les systèmes d'entreprise pour son standardisé, ce qui assure une interopérabilité entre différentes plateformes et langages.
 
